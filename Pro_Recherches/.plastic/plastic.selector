@@ -1,0 +1,4 @@
+repository "Pro_Recherches@damotime@cloud"
+  path "/"
+    br "/main"
+    co "/main"
