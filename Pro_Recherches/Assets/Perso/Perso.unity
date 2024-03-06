@@ -253,7 +253,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.235
+    scalar: 0.55
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -313,7 +313,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.05
+      scalar: 0.1
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -366,7 +366,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 50
+      scalar: 10
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -5293,7 +5293,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.25
+    scalar: 0.625
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -15016,7 +15016,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.25
+    scalar: 0.625
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -24798,7 +24798,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.2
+      scalar: 0.5
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -34459,7 +34459,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.275
+    scalar: 0.6875
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -39347,7 +39347,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.25
+    scalar: 0.625
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -44313,7 +44313,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.2
+      scalar: 0.5
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -49250,7 +49250,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.2
+      scalar: 0.5
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -54233,7 +54233,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.25
+    scalar: 0.625
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -59130,7 +59130,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.21
+    scalar: 0.525
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -59190,7 +59190,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.025
+      scalar: 0.05
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -59361,7 +59361,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 5
+      scalar: 4
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -64018,7 +64018,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.21
+    scalar: 0.525
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -64078,7 +64078,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.05
+      scalar: 0.15
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -68809,8 +68809,8 @@ Transform:
   m_Children:
   - {fileID: 1769217913}
   - {fileID: 1853055611}
-  - {fileID: 147145991}
   - {fileID: 1961777315}
+  - {fileID: 147145991}
   m_Father: {fileID: 1061121790}
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!199 &1868132798
@@ -73800,7 +73800,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.2
+      scalar: 0.5
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -78628,7 +78628,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.235
+    scalar: 0.575
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -78688,7 +78688,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.025
+      scalar: 0.05
       minScalar: 5
       maxCurve:
         serializedVersion: 2
