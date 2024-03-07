@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mi_RingRange
-  m_Shader: {fileID: -6465566751694194690, guid: 6c2622b874671ae4595f435278579f09, type: 3}
+  m_Name: Mi_Cross
+  m_Shader: {fileID: -6465566751694194690, guid: a72f039cf944bd04ab65d7cce6833e3d, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -76,24 +76,12 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_c4a4fe1d0d45476c95a733b014b0a17f_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: aba5c3c944200114ca91517f403f8f74, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_c8b6b1370cb74ed7944141a852baee5e_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: 875ed79b3fa1a0a4d900ef0cb9b20c05, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_ff6463dfd6584efe87329ad42015ef36_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: aba5c3c944200114ca91517f403f8f74, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture2D:
-        m_Texture: {fileID: 2800000, guid: 875ed79b3fa1a0a4d900ef0cb9b20c05, type: 3}
+        m_Texture: {fileID: 2800000, guid: ffa9aae2ff0c69a4b907cbb909dc6a41, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
