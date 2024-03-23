@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 4135442632488744426}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.02, y: 0.00999999, z: -0.33000007}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4915,7 +4915,7 @@ Transform:
   m_GameObject: {fileID: 7030256668341494485}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.38255793, z: -0, w: 0.92393154}
-  m_LocalPosition: {x: 1.24, y: 0, z: -1.61}
+  m_LocalPosition: {x: 1.24, y: 0, z: -1.25}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5111,7 +5111,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.46666667, g: 0.627451, b: 0.4627451, a: 1}
+      maxColor: {r: 0.4530595, g: 0.727, b: 0.44637802, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -6255,16 +6255,16 @@ ParticleSystem:
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
-        key1: {r: 1, g: 1, b: 1, a: 1}
-        key2: {r: 0, g: 0, b: 0, a: 0}
+        key1: {r: 0.9876125, g: 0.9899654, b: 0.9879585, a: 1}
+        key2: {r: 0.3019608, g: 0.43137255, b: 0.31764707, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
         key5: {r: 0, g: 0, b: 0, a: 0}
         key6: {r: 0, g: 0, b: 0, a: 0}
         key7: {r: 0, g: 0, b: 0, a: 0}
         ctime0: 0
-        ctime1: 65535
-        ctime2: 0
+        ctime1: 35697
+        ctime2: 65535
         ctime3: 0
         ctime4: 0
         ctime5: 0
@@ -6279,8 +6279,8 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
-        m_ColorSpace: -1
-        m_NumColorKeys: 2
+        m_ColorSpace: 0
+        m_NumColorKeys: 3
         m_NumAlphaKeys: 2
       minGradient:
         serializedVersion: 2
@@ -9723,7 +9723,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a0201d51816a5394b9024270cd61ce27, type: 2}
+  - {fileID: 2100000, guid: a7eab1ea43419de419ee33b8d565b379, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
