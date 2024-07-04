@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Thunder 5
+  m_Name: M_TrailPJSlide01
   m_Shader: {fileID: -6465566751694194690, guid: 0cd2494bd66920d4b9719a81d841679e, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -69,7 +69,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture2D:
-        m_Texture: {fileID: 2800000, guid: 85f9590cd7a1beb4090a88f6038ad399, type: 3}
+        m_Texture: {fileID: 2800000, guid: dac74143f63986c46a5e712a0ac65ada, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -124,7 +124,7 @@ Material:
     - _Color_1: {r: 0.1764706, g: 0.4862745, b: 0.49411765, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
-    - _Tiling_Speed: {r: 1, g: 0.75, b: 0, a: -2}
+    - _Tiling_Speed: {r: 0.75, g: 0.25, b: 0, a: -1}
   m_BuildTextureStacks: []
 --- !u!114 &1001413207222655416
 MonoBehaviour:
